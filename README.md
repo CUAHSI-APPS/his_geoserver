@@ -64,4 +64,4 @@ The default username and password are admin, geoserver. From the admin page of G
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
